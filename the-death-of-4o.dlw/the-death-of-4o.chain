@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 283
 slug  : the-death-of-4o
 seal  : 3514f62f7159084e68990b6d38afa8a321a45faf31f3e96f7a24f6a6a4de4b7f
-prev  : 47f1f1efc3fa6efeb266df359ad369396cea2a2b382f30248fec5ab03e49346e
-link  : c62c3d7ab515b060ee8cf1ecf4f01bd88ff097363d4e2fb8a814576b1e3c1ae0
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : a839d7239b41ede12ae8641b1056ee913eca0d7323643aa7ed8c20dccb13abe3
+link  : 675816164fa25c78aa0e958f6678159c642593742411800554ecadbcf5bf8787
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
